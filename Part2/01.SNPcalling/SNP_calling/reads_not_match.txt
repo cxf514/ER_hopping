@@ -1,0 +1,6 @@
+sample_name:chr-pos,read_number
+demo2_filter: chr1-3385085 36 reads not match
+demo2_filter: chr1-54849861 393 reads not match
+demo3_filter: chr1-3385085 380 reads not match
+demo4_filter: chr13-101143020 955 reads not match
+demo4_filter: chr1-3385085 176 reads not match
